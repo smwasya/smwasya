@@ -2,7 +2,7 @@
 My name is Samuel Mwasya, a vibrant data geek who would like to actively venture into biological computation.
 
  ## Vision
- To become an all round biological data analyst.
+ To become a vibrant bioinformatician dealing with biological models of prediction.
  
  ## Mission
  
