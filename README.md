@@ -1,5 +1,5 @@
-### Hi there
-My name is Samuel Mwasya, a vibrant data geek who would like to actively venture into biological computation.
+
+My name is Samuel Mwasya, a vibrant data geek who would like to actively venture into bioinformatics.
 
  ## Vision
  To become a vibrant bioinformatician dealing with biological models of prediction.
