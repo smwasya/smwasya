@@ -11,7 +11,7 @@ My name is Samuel Mwasya, a vibrant data geek who would like to actively venture
  
  After undertaking Bioinformatics intership at International Centre of Insect Physiology and Ecology *(Icipe)* 
  
- I rejoined icipe I am actively working on ongoing projects. Most of my Projects has private repo until they are published.
+ I rejoined icipe and I am actively working on ongoing projects. Most of my Projects has private repositories until they are published.
 
 
 
