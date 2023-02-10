@@ -17,7 +17,11 @@ So join me on this hilarious journey as we unravel the secrets of life, one nucl
  
  
  
- Most of my Projects has private repositories until they are published.
+Most of my Github repositories are like a top secret club, it's like the X-Files of code, except instead of aliens, we're dealing with cutting-edge algorithms and groundbreaking technology.
+
+In all seriousness though, my private repositories are for projects that I'm still working on and aren't ready for public viewing.
+
+But don't be disappointed just yet, I promise that the secret knowledge contained within those repositories is worth the wait.
 
 
 
