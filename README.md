@@ -3,10 +3,10 @@
 
 ### I want to use my skills to decode the language of genes and translate it into meaningful insights that improve human health and well-being.
 
- ## Vision
+# Vision
 As a bioinformatics expert, I aim to use my coding skills and data analysis abilities to make a positive impact on human health. My goal is to turn large amounts of biological data into useful insights and solutions, using both science and humor. I hope to be known for my expertise and to bring joy to my colleagues, students, and clients. My ultimate objective is to leave a lasting impact in the field and improve human health.
  
- ## Mission
+# Mission
  
 As a bioinformatics expert, my mission is to decode the mysteries of life and uncover the secrets hidden in the vast amounts of biological data. I strive to bring laughter and joy to the otherwise serious world of genetics and molecular biology.
 
