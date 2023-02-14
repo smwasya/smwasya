@@ -1,5 +1,5 @@
 
-### I am a code wizard and data ninja who blends science and magic to uncover the mysteries of life. 
+### I am a code wizard and data ninja who blends maths, science and magic to uncover the mysteries of life. 
 
 ### I want to use my skills to decode the language of genes and translate it into meaningful insights that improve human health and well-being.
 
