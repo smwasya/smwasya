@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour et bienvenue. Je suis Samuel Mwasya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Bonjour et bienvenue. My name is Samuel Mwasya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 
 
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>À propos de Sam</b>
+<!--## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>À propos de Sam</b> -->
 As a junior bioinformatician, I am embarking on an exciting journey at the intersection of mathematics/statistics, biology, and computer science. I am particularly fascinated by the incredible potential of computational techniques to unravel the mysteries surrounding Respiratory Syncytial Virus (RSV).
 
 - 🔭 I’m currently learning & working on `RSV Bioinformatics pipeline` as a `PGD Fellow`.
