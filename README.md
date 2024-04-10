@@ -12,7 +12,7 @@ As a junior bioinformatician, I am embarking on an exciting journey at the inter
 
 - 🔭 I’m currently learning & working on `RSV Bioinformatics pipeline` as a `PGD Fellow`.
 
-- 👨‍💻 I’m looking forward to contribute to RSV research and help help solve human problems.
+- 👨‍💻 I’m looking forward to contribute to RSV research and help solve human problems.
 
 
 - 💬 Ask me how I ended up in Bioinformatics from a  Mathematics background 😉.
