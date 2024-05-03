@@ -1,8 +1,8 @@
 <h1 align="center">Bonjour et bienvenue. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   
-  My name is Samuel Mwasya. </h1>
-<div align="center">
+  <!--My name is Samuel Mwasya. --> </h1> 
+<div align="center"> 
   
 
 </div>
